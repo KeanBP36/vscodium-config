@@ -284,7 +284,7 @@
   "[javascript][javascriptreact][typescript][typescriptreact][json][jsonc][html][css][markdown][yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.colorTheme": "Dark Modern",
+  "workbench.colorTheme": "Visual Studio Dark",
   "vscord.app.name": "VSCodium",
   "vscord.app.privacyMode.enable": true,
   "workbench.colorCustomizations": {
@@ -357,5 +357,5 @@
     ]
   },
   "editor.cursorStyle": "line-thin",
-  "editor.fontSize": 16
+  "editor.fontSize": 18
 }
