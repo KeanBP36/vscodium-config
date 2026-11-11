@@ -1,0 +1,21 @@
+[
+  {
+    "command": "selectNextSuggestion",
+    "key": "tab",
+    "when": "editorTextFocus && suggestWidgetMultipleSuggestions && suggestWidgetVisible"
+  },
+  {
+    "command": "selectPrevSuggestion",
+    "key": "shift+tab",
+    "when": "editorTextFocus && suggestWidgetMultipleSuggestions && suggestWidgetVisible"
+  },
+  {
+    "command": "acceptSelectedSuggestion",
+    "key": "ctrl+y",
+    "when": "editorTextFocus && suggestWidgetVisible"
+  },
+  {
+    "command": "workbench.action.terminal.toggleTerminal",
+    "key": "ctrl+\\"
+  }
+]
