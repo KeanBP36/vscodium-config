@@ -243,7 +243,6 @@
       "commands": ["timeline.focus"]
     }
   ],
-
   "editor.tabSize": 4,
   "editor.insertSpaces": true,
   "editor.detectIndentation": false,
@@ -258,11 +257,9 @@
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.indentation": true,
   "editor.occurrencesHighlight": "singleFile",
-
   "search.seedWithNearestWord": true,
   "workbench.editor.openSideBySideDirection": "right",
   "window.restoreWindows": "all",
-
   "nix.enableLanguageServer": true,
   "nix.serverPath": "nixd",
   "nix.serverSettings": {
@@ -272,7 +269,6 @@
       }
     }
   },
-
   "[nix]": {
     "editor.defaultFormatter": "jnoortheen.nix-ide"
   },
@@ -288,12 +284,9 @@
   "[javascript][javascriptreact][typescript][typescriptreact][json][jsonc][html][css][markdown][yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-
   "workbench.colorTheme": "Dark Modern",
-
   "vscord.app.name": "VSCodium",
   "vscord.app.privacyMode.enable": true,
-
   "workbench.colorCustomizations": {
     "editor.background": "#1f1f1f",
     "editor.foreground": "#d4d4d4",
@@ -316,7 +309,6 @@
     "editorInfo.foreground": "#569cd6",
     "editorHint.foreground": "#4ec9b0"
   },
-
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
@@ -363,6 +355,7 @@
         }
       }
     ]
-},
-"editor.cursorStyle": "line-thin"
+  },
+  "editor.cursorStyle": "line-thin",
+  "editor.fontSize": 16
 }
