@@ -355,7 +355,9 @@
         }
       }
     ]
-  },
-  "editor.cursorStyle": "line-thin",
-  "editor.fontSize": 18
+},
+"editor.formatOnPaste": true,
+"editor.formatOnSaveMode": "modifications",
+"editor.formatOnType": true,
+"telemetry.feedback.enabled": false
 }
