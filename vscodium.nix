@@ -41,12 +41,6 @@
         # Discord Rich Presence
         leonardssh.vscord
       ];
-
-      userSettings = lib.recursiveUpdate (builtins.fromJSON (builtins.readFile ./settings.json)) {
-        "workbench.colorTheme" = lib.mkForce "Default Dark Modern";
-      };
-
-      keybindings = builtins.fromJSON (builtins.readFile ./keybindings.json);
     };
   };
 }

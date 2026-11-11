@@ -1,0 +1,16 @@
+catppuccin.catppuccin-vsc
+catppuccin.catppuccin-vsc-icons
+charliermarsh.ruff
+davidanson.vscode-markdownlint
+dbaeumer.vscode-eslint
+foxundermoon.shell-format
+golang.go
+jnoortheen.nix-ide
+leonardssh.vscord
+llvm-vs-code-extensions.vscode-clangd
+mads-hartmann.bash-ide-vscode
+ms-python.vscode-python-envs
+redhat.vscode-yaml
+rust-lang.rust-analyzer
+sumneko.lua
+timonwong.shellcheck

@@ -289,7 +289,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
-  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.colorTheme": "Dark Modern",
 
   "vscord.app.name": "VSCodium",
   "vscord.app.privacyMode.enable": true,
@@ -363,5 +363,6 @@
         }
       }
     ]
-  }
+},
+"editor.cursorStyle": "line-thin"
 }
